@@ -1,0 +1,9 @@
+https://portal.azure.com/#home
+
+Resourcd create - choose subscription > give name > chose region > review & create
+Storage account creation - 
+Move storage account to another resource & region
+create Blob service 
+create a container & upload a file
+create a file share in storage account 
+Share file connect publicly   >>>> storage account > chose account > file share > put file share name > chose access tire > review + create > chose that file U need connect publicly > chose OS > put drive letter > show & copy script & pest it to notepad > note share file url, user name, password, > localy map a network drive using script.
